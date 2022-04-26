@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /pikachu/Dockerfile
+      worker: /HYDRA/Dockerfile
 run:
    worker: npm start
