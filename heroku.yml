@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /pikachu/Dockerfile
+run:
+   worker: npm start
