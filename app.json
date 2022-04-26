@@ -1,11 +1,11 @@
 {
-    "name": "PIKACHU",
-    "description": "Pikachu is the Modified Version of WhatsAsena, Made By @Ameer Suhail with Baileys.",
+    "name": "HYDRA",
+    "description": "HYDRA is the Modified Version of WhatsAsena, Made By @Ameer Suhail with Baileys.",
     "logo": "https://i.imgur.com/SoIxkUE.jpeg",
-    "keywords": ["whatsapp", "userbot", "pikachu", "WhatsAsena", "pikachu", "bot", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
-    "website":   "https://github.com/ameer-kallumthodi/pikachu",
-    "success_url": "https://github.com/ameer-kallumthodi/pikachu",
+    "keywords": ["whatsapp", "userbot", "HYDRA", "WhatsAsena", "HYDRA", "bot", "ai"],
+    "repository": "https://github.com/ANU-SER/HYDRA",
+    "website":   "https://github.com/ANU-SER/HYDRA",
+    "success_url": "https://github.com/ANU-SER/HYDRA",
     "stack": "container",
     "env": {
         "PIKACHU_SESSION": {
